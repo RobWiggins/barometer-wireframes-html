@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 10px;
+}
+
+span {
+  margin: 10px;
+}
+
+nav, header {
+  text-align: center;
+  margin: auto;
+}
+
+#data-visualization {
+  margin: 10px;
+  width: 250px;
+  height: 250px;
+  background-color: lightgray;
+}
